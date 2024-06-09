@@ -1,0 +1,14 @@
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\bin\Debug\net8.0\ShowProgram.exe
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\bin\Debug\net8.0\ShowProgram.deps.json
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\bin\Debug\net8.0\ShowProgram.runtimeconfig.json
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\bin\Debug\net8.0\ShowProgram.dll
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\bin\Debug\net8.0\ShowProgram.pdb
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\obj\Debug\net8.0\ShowProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\obj\Debug\net8.0\ShowProgram.AssemblyInfoInputs.cache
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\obj\Debug\net8.0\ShowProgram.AssemblyInfo.cs
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\obj\Debug\net8.0\ShowProgram.csproj.CoreCompileInputs.cache
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\obj\Debug\net8.0\ShowProgram.dll
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\obj\Debug\net8.0\refint\ShowProgram.dll
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\obj\Debug\net8.0\ShowProgram.pdb
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\obj\Debug\net8.0\ShowProgram.genruntimeconfig.cache
+C:\Users\bryca\Documents\Eonix\Exercice1\ShowProgram\obj\Debug\net8.0\ref\ShowProgram.dll
